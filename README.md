@@ -8,7 +8,7 @@ I've been coding for about 6 years now including some early experience in highsc
 
 * 🌍  I'm based in New York for the time being.
 * ✉️  You can contact me at [gregvjrr@gmail.com](mailto:gregvjrr@gmail.com)
-* 🧠  I'm learning MERN and specifically ReactJs
+* 🧠  I'm learning ReactJS currently and specifically the MERN stack for web development.
 * 🤝  I'm open to collaborating on just about anything.
 
 <a href="https://www.github.com/GregV-crypto" target="_blank" rel="noreferrer"><img
