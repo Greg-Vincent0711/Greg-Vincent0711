@@ -6,11 +6,17 @@ Aspiring Web Developer/Software Engineer
 
 I've been coding for about 6 years now including some early experience in highschool. Realistically, the last 4 years are really what counts since I've made my best work and progess within them. So far I've gained experience the most experience in - Java - JavaScript - C/C++ - Python - Scheme - SQL - MongoDB
 
-*   🌍  I'm based in New York for the time being.
-*   ✉️  You can contact me at [gregvjrr@gmail.com](mailto:gregvjrr@gmail.com)
-*   🧠  I'm learning MERN and specifically ReactJs
-*   🤝  I'm open to collaborating on just about anything.<a href="https://www.github.com/GregV-crypto" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/GregV-crypto?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+* 🌍  I'm based in New York for the time being.
+* ✉️  You can contact me at [gregvjrr@gmail.com](mailto:gregvjrr@gmail.com)
+* 🧠  I'm learning MERN and specifically ReactJs
+* 🤝  I'm open to collaborating on just about anything.
+
+<a href="https://www.github.com/GregV-crypto" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/GregV-crypto?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills
+
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -26,15 +32,14 @@ I've been coding for about 6 years now including some early experience in highsc
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/Mugiwara();#1423" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/GregV-crypto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/gregory-vincent-8a3852233" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/GregV-crypto"><img src="https://github-readme-stats.vercel.app/api?username=GregV-crypto&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GregV-crypto's GitHub stats" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/Mugiwara();#1423" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/GregV-crypto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gregory-vincent-8a3852233" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/GregV-crypto"><img src="https://github-readme-stats.vercel.app/api?username=GregV-crypto&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GregV-crypto's GitHub stats" /></a>
