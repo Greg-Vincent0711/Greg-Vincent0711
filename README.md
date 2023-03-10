@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gregory Vincent Jr
 ==========================================================================================================================================
 
-Aspiring Web Developer/Software Engineer
+Completing a Bachelor's in Computer Science at SUNY Albany and Aspiring Web Developer/Software Engineer
 ----------------------------------------
 
-I've been coding for about 6 years now including some early experience in highschool. Realistically, the last 4 years are really what counts since I've made my best work and progess within them. So far I've gained experience the most experience in - Java - JavaScript - C/C++ - Python - Scheme - SQL - MongoDB
+I've been coding for about 6 years now including some early experience in highschool. I have the most experience in Java, Python, JavaScript and libraries like React and Express(and the needed HMTL/CSS as well). I'm currently learning the MERN tech-stack to become a fullstack developer. 
 
-* 🌍  I'm based in New York for the time being.
+* 🌍  I'm based in Albany, New York.
 * ✉️  You can contact me at [gregvjrr@gmail.com](mailto:gregvjrr@gmail.com)
-* 🧠  I'm learning ReactJS currently and specifically the MERN stack for web development.
+* 🧠  I've 
 * 🤝  I'm open to collaborating on just about anything.
 
 <a href="https://www.github.com/GregV-crypto" target="_blank" rel="noreferrer"><img
