@@ -8,7 +8,6 @@ I've been coding for about 6 years now including some early experience in highsc
 
 * 🌍  I'm based in Albany, New York.
 * ✉️  You can contact me at [gregvjrr@gmail.com](mailto:gregvjrr@gmail.com)
-* 🧠  I've 
 * 🤝  I'm open to collaborating on just about anything.
 
 <a href="https://www.github.com/GregV-crypto" target="_blank" rel="noreferrer"><img
