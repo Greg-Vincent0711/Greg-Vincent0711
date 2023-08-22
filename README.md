@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gregory Vincent Jr
 ==========================================================================================================================================
 
-Computer Science Senior at the University of Albany and Aspiring Web Developer
+Computer Science Senior at the University of Albany, Summer 2023 Softwre Engineering Intern at Jahnel Group
 ----------------------------------------
 
 I've been coding for about 6 years now including some early experience in highschool. I have the most experience in Java, Python, JavaScript and libraries like React and Express(and the needed HMTL/CSS as well). I'm currently learning the MERN tech-stack to become a fullstack developer. 
