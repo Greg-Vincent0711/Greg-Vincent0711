@@ -4,15 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Graduate from the University of Albany, Summer 2023 Software Engineering Intern at Jahnel Group
 ----------------------------------------
 
-I've been coding for about 6 years now - I'm the strongest in languages Java, Python, JavaScript and libraries like React(and the needed HMTL/CSS as well). I'm currently fixated on low-level programming, learning new languages, and Artificial Intelligence(wierd combination, I know), so I've been following a tutorial on OS design in Rust and following the free Fastai course on the practical use of AI. Check out what I'm currently learning below:
+I've been coding for about 4 years now - I'm the most proficient in languages like Java, Python, JavaScript and the usual libraries like React. As an aspiring Software Engineer I understand the importance of diversifiying your skillset, which brings me to what I'm currently fixated on - low-level systesm programming and Artificial Intelligence(wierd combination, I know). As such, I've been following a tutorial on OS design in Rust and a free course on the practical use of AI. Check out both resources below:
 
 <a href="https://os.phil-opp.com/"> OS Design in Rust </a>
 <br/>
 <a href="https://course.fast.ai/"> Practical Deep Learning for Coders </a>
 
-* 🌍  I'm based in Albany, New York.
+* 🌍  I'm based in Niskayuna, New York.
 * ✉️  You can contact me at [gregvjrr@gmail.com](mailto:gregvjrr@gmail.com)
-* 🤝  I'm open to collaborating on just about anything.
+* 🤝  I'm open to collaborating on just about anything and particularly interested in new technology.
 
 ### Skills
 
