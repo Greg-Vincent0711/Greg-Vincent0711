@@ -1,10 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gregory Vincent Jr
 ==========================================================================================================================================
 
-Computer Science Senior at the University of Albany, Summer 2023 Software Engineering Intern at Jahnel Group
+Computer Science Graduate from the University of Albany, Summer 2023 Software Engineering Intern at Jahnel Group
 ----------------------------------------
 
-I've been coding for about 6 years now including some early experience in highschool. I have the most experience in Java, Python, JavaScript and libraries like React and Express(and the needed HMTL/CSS as well). I'm currently learning the MERN tech-stack to become a fullstack developer. 
+I've been coding for about 6 years now - I'm the strongest in languages Java, Python, JavaScript and libraries like React(and the needed HMTL/CSS as well). I'm currently fixated on low-level programming, learning new languages, and Artificial Intelligence(wierd combination, I know), so I've been following a tutorial on OS design in Rust and following the free fastai course on the practical use of AI. Check out what I'm currently learning below:
+<ul>
+  <a href="https://os.phil-opp.com/"> OS Design in Rust </a>
+  <a href="https://course.fast.ai/"> Practical Deep Learning for Coders </a>
+</ul>
 
 * 🌍  I'm based in Albany, New York.
 * ✉️  You can contact me at [gregvjrr@gmail.com](mailto:gregvjrr@gmail.com)
