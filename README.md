@@ -5,6 +5,7 @@ Computer Science Graduate from the University of Albany, Summer 2023 Software En
 ----------------------------------------
 
 I've been coding for about 6 years now - I'm the strongest in languages Java, Python, JavaScript and libraries like React(and the needed HMTL/CSS as well). I'm currently fixated on low-level programming, learning new languages, and Artificial Intelligence(wierd combination, I know), so I've been following a tutorial on OS design in Rust and following the free fastai course on the practical use of AI. Check out what I'm currently learning below:
+
 <a href="https://os.phil-opp.com/"> OS Design in Rust </a>
 <a href="https://course.fast.ai/"> Practical Deep Learning for Coders </a>
 
@@ -16,7 +17,6 @@ I've been coding for about 6 years now - I'm the strongest in languages Java, Py
 src="https://img.shields.io/github/followers/GregV-crypto?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
-
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
