@@ -7,6 +7,7 @@ Computer Science Graduate from the University of Albany, Summer 2023 Software En
 I've been coding for about 6 years now - I'm the strongest in languages Java, Python, JavaScript and libraries like React(and the needed HMTL/CSS as well). I'm currently fixated on low-level programming, learning new languages, and Artificial Intelligence(wierd combination, I know), so I've been following a tutorial on OS design in Rust and following the free fastai course on the practical use of AI. Check out what I'm currently learning below:
 
 <a href="https://os.phil-opp.com/"> OS Design in Rust </a>
+<br/>
 <a href="https://course.fast.ai/"> Practical Deep Learning for Coders </a>
 
 * 🌍  I'm based in Albany, New York.
