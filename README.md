@@ -14,9 +14,6 @@ I've been coding for about 6 years now - I'm the strongest in languages Java, Py
 * ✉️  You can contact me at [gregvjrr@gmail.com](mailto:gregvjrr@gmail.com)
 * 🤝  I'm open to collaborating on just about anything.
 
-<a href="https://www.github.com/GregV-crypto" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/GregV-crypto?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 <p align="left">
