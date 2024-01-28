@@ -1,16 +1,16 @@
 Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif )My name is Gregory Vincent Jr
 ==========================================================================================================================================
 
-Computer Science graduate in 2023 from the University at Albany
+Computer Science graduate from the University at Albany
 ----------------------------------------
 
-I've been coding for about 4 years now and consider myself the most proficient in languages like Java, Python, JavaScript and the usual development libraries like React and Tailwind. As an aspiring Software Engineer, I understand the importance of diversifiying your skillset, which brings me to what I'm currently fixated on - Artificial Intelligence. As such, I'm currently working through a Deep Learning Course and developing a side project based on what I've learned (still in the works).
+I've been coding for about 4 years now and consider myself the most proficient in languages like Java, Python, JavaScript and the usual development libraries like React and Tailwind. As an aspiring Software Engineer, I understand the importance of diversifiying your skillset, which brings me to what I'm currently fixated on - Artificial Intelligence. As such, I'm currently working through a Deep Learning Course and developing a side project based on what I've learned.
 
 <a href="https://www.youtube.com/watch?v=V_xro1bcAuA&ab_channel=freeCodeCamp.org"> Pytorch for Machine Learning and Deep Learning </a>
 
 * 🌍  I'm based in Niskayuna, New York.
 * ✉️  You can contact me at [gregvjrr@gmail.com](mailto:gregvjrr@gmail.com)
-* 🤝  I'm open to collaborating on just about anything and particularly interested in new technology.
+* 🤝  I'm open to collaborating on anything, and love being exposed to new technology of any kind.
 
 ### Skills
 
