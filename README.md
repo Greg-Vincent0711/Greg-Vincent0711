@@ -3,10 +3,7 @@ Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 
 Computer Science graduate from the University at Albany
 ----------------------------------------
-
-I've been coding for about 4 years now and consider myself the most proficient in languages like Java, Python, JavaScript and the usual development libraries like React and Tailwind. As an aspiring Software Engineer, I understand the importance of diversifiying your skillset, which brings me to what I'm currently fixated on - Artificial Intelligence. As such, I'm currently working through a Deep Learning Course and developing a side project based on what I've learned.
-
-<a href="https://www.youtube.com/watch?v=V_xro1bcAuA&ab_channel=freeCodeCamp.org"> Pytorch for Machine Learning and Deep Learning </a>
+As a recent college graduate who's immersed in everything Computer Science and Software Development, all I've learned throughout obtaining my degree in this field is that there's an infinite amount to learn, and that the only way to truly progress in this field is to forever remain a student. As such, I'm always working to upgrade my skillset and to forge a deeper understanding of concepts general to this field in order to become a better programmer.
 
 * 🌍  I'm based in Niskayuna, New York.
 * ✉️  You can contact me at [gregvjrr@gmail.com](mailto:gregvjrr@gmail.com)
