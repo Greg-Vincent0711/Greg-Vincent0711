@@ -3,7 +3,7 @@ Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 
 Front-end Developer at CTG
 ----------------------------------------
-As a recent college graduate who's immersed in everything Computer Science and Software Development, all I've learned throughout obtaining my degree in this field is that there's an infinite amount to learn, and that the only way to truly progress in this field is to forever remain a student. As such, I'm always working to upgrade my skillset and to forge a deeper understanding of concepts general to this field in order to become a better programmer.
+As a recent college graduate who's immersed in everything Computer Science and Software Development, all I've learned throughout obtaining my degree in this field is that there's an infinite amount to learn, and that the only way to truly progress in this field is to forever remain a student. As such, I'm always working to upgrade my skillset and to forge a deeper understanding of concepts general to this field in order to become a better programmer. Even though my GitHub stars seem to have taken a steep dive, I still code all the time - Code Commit doesn't translate commits to Github as far as I know unfortunately.
 
 * 🌍  I'm based in Niskayuna, New York.
 * ✉️  You can contact me at [gregvjrr@gmail.com](mailto:gregvjrr@gmail.com)
