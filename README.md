@@ -9,7 +9,7 @@ Check out my current in progress business idea here: https://kamixo.vercel.app/
 
 [How does Kamixo's Scoring Pipeline Work?](https://youtu.be/VlbEW-O8AKA)
 
-* 🌍  I'm based in Niskayuna, New York (but am looking to California soon).
+* 🌍  I'm based in Niskayuna, New York (but am looking to move to California soon).
 * ✉️  You can contact me at [gregvjrr@gmail.com](mailto:gregvjrr@gmail.com)
 * 🤝  I'm open to collaborating on anything, and love being exposed to new technology of any kind.
 
