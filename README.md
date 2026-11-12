@@ -5,9 +5,9 @@ As a 2023 college graduate who's immersed in everything Computer Science and Sof
 
 Check out my current in progress business idea here: https://kamixo.vercel.app/ 
 
-[Vid explaining how Kamixo Works](https://youtu.be/r26D4GzOxE8)
+[How does Kamixo Work?](https://youtu.be/r26D4GzOxE8)
 
-[Vid explaining how Kamixo's Scoring Pipeline Works](https://youtu.be/VlbEW-O8AKA)
+[How does Kamixo's Scoring Pipeline Work?](https://youtu.be/VlbEW-O8AKA)
 
 * 🌍  I'm based in Niskayuna, New York.
 * ✉️  You can contact me at [gregvjrr@gmail.com](mailto:gregvjrr@gmail.com)
