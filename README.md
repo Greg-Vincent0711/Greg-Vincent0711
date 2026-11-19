@@ -9,6 +9,11 @@ Check out my current in progress business idea here: https://kamixo.vercel.app/
 
 [How does Kamixo's Scoring Pipeline Work?](https://youtu.be/VlbEW-O8AKA)
 
+Also feel free to checkout my previously completed (Phase 1) project Lapis using these links.
+[Lapis.site](https://main.d15e4j6jt7lh3i.amplifyapp.com/)
+
+[Add the Bot to your Server](https://discord.com/oauth2/authorize?client_id=1342331009336868915&permissions=379904&integration_type=0&scope=bot)
+
 * 🌍  I'm based in Niskayuna, New York (but am looking to move to California soon).
 * ✉️  You can contact me at [gregvjrr@gmail.com](mailto:gregvjrr@gmail.com)
 * 🤝  I'm open to collaborating on anything, and love being exposed to new technology of any kind.
