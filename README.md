@@ -15,7 +15,7 @@ Also feel free to checkout my previously completed (Phase 1) project Lapis using
 
 [Add the Bot to your Server](https://discord.com/oauth2/authorize?client_id=1342331009336868915&permissions=379904&integration_type=0&scope=bot)
 
-* 🌍  I'm based in Niskayuna, New York (but am looking to move to California soon).
+* 🌍  I'm based in Niskayuna, New York (but am looking to move to the San Francisco Bay Area soon).
 * ✉️  You can contact me at [gregvjrr@gmail.com](mailto:gregvjrr@gmail.com)
 * 🤝  I'm open to collaborating on anything, and love being exposed to new technology of any kind.
 
